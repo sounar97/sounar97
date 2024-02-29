@@ -8,9 +8,6 @@ I'm a passionate software engineer with expertise in the MERN stack, Java, machi
 - **Machine Learning:** TensorFlow, scikit-learn
 - **MLOps:** Docker, Kubernetes, CI/CD
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sounar97&show_icons=true&theme=radical)
-
 ## 📈 GitHub Contributions
 ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=sounar97&count_private=true&show_icons=true&theme=radical)
 
