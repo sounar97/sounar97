@@ -9,7 +9,7 @@ I'm a passionate software engineer with expertise in the MERN stack, Java, machi
 - **MLOps:** Docker, Kubernetes, CI/CD
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sounar97&show_icons=true&theme=radical)
 
 
 
