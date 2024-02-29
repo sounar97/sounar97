@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Sourav Narayan] 👋
 
 I'm a passionate software engineer with expertise in the MERN stack, Java, machine learning, and MLOps.
 
@@ -21,11 +21,11 @@ I'm a passionate software engineer with expertise in the MERN stack, Java, machi
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Contributions
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=your-username&count_private=true&show_icons=true&theme=radical)
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=sounar97&count_private=true&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect
-- LinkedIn: [Your LinkedIn Profile](#)
-- Twitter: [@YourTwitterHandle](#)
+- LinkedIn: [https://www.linkedin.com/in/sourav-narayana-94b461221/](#)
+- Twitter: [https://twitter.com/soitsrav](#)
 
 <!-- Footer -->
-![Profile Views](https://komarev.com/ghpvc/?username=your-username)
+![Profile Views](https://komarev.com/ghpvc/?username=sounar97)
