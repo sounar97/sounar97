@@ -10,7 +10,8 @@ I'm a passionate software engineer with expertise in the MERN stack, Java, machi
 
 ## 📈 GitHub Contributions
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sounar97" alt="sounar97" /></a> </p>
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=sounar97&count_private=true&show_icons=true&theme=radical)
+
+[GitHub Contributions](https://github-readme-stats.vercel.app/api?username=sounar97&count_private=true&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect
 - LinkedIn: [https://www.linkedin.com/in/sourav-n-94b461221/]
