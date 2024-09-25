@@ -4,7 +4,7 @@ I'm a passionate software engineer with expertise in the MERN stack, Java, machi
 
 ## 🚀 Skills
 - **MERN Stack:** MongoDB, Express.js, React, Node.js
-- **Java:** Spring Boot, Hibernate
+- **Java:** Spring Boot
 - **Machine Learning:** TensorFlow, scikit-learn
 - **MLOps:** Docker, Kubernetes, CI/CD
 
